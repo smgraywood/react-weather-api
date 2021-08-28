@@ -1,6 +1,6 @@
 body{
-  background-image: url("https://cdn.lowgif.com/full/11f23e804ce7dc06-gif-rain-sun-nature-autumn-cozy-spring-rain-gif-rainy-we.gif");
-  background-size: cover;
+  background-image: ({changeBg()});
+  background-size:cover;
   background-repeat: repeat;
   background-color: #7A7575;
 }

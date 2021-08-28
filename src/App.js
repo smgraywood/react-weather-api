@@ -125,6 +125,8 @@ class App extends React.Component {
 
 
 function changeBg(){
+
+
   const images= [
   'url("https://images6.alphacoders.com/363/363733.jpg")',//rainy static
 ' url("https://i.pinimg.com/originals/72/a8/21/72a821a47acadbf0614e091dd5d06ed7.jpg")', //sunny static
