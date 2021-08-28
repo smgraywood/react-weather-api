@@ -134,7 +134,7 @@ function changeBg(){
 ' url("https://images.unsplash.com/photo-1558975934-3852951edd25?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2xvdWR5JTIwYmFja2dyb3VuZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80")',//cloudy evening
 ' url("https://cdn.wallpapersafari.com/76/28/yXlGhQ.gif")', //clouds gif
 ' url("https://img.wattpad.com/bfe824f830b9fc411c9f900c592afea58a38b98b/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f66505a74776b4c4c5672724251773d3d2d313031313336353237352e313636616439643564623830346231313433303435303536323333362e676966")', //snow night
-' url("https://c.tenor.com/LMStKSxadRgAAAAC/stars-night.gif")'
+'url("https://64.media.tumblr.com/d0e9137219b78062b0441ee74ca47a8f/tumblr_mjv8falGbU1s8o1r4o1_1280.gif")'//lightning
 ]
 
 const section = document.querySelector('body')

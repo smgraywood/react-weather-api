@@ -1,7 +1,7 @@
 body{
   background-image: url("https://cdn.lowgif.com/full/11f23e804ce7dc06-gif-rain-sun-nature-autumn-cozy-spring-rain-gif-rainy-we.gif");
   background-size: cover;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-color: #7A7575;
 }
 
@@ -43,3 +43,9 @@ body{
     transform: rotate(360deg);
   }
 }
+
+@media(max-width:700px){
+  body{
+    background-image: url("https://wallpaperaccess.com/full/1097513.jpg")
+  }
+  }
